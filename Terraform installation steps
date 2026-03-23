@@ -1,0 +1,5 @@
+download terraform exe& license from below path for windows amd64
+https://developer.hashicorp.com/terraform/install#windows
+
+copy exe& license into path C:\users\deepa\appdata\Local\Microsoft\windowsapps
+
